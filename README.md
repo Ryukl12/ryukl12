@@ -3,8 +3,8 @@ I'm Fabricio Oliveira
 
   <div style="display:flex">
     <a href="https://github.com/Ryukl12">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ryukl12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukl12&layout=compact&langs_count=7&theme=codeSTACKr"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ryukl12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukl12&layout=compact&langs_count=7&theme=dark"/>
   </div>
   
   <h2>Skills:</h2>
