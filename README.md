@@ -40,9 +40,9 @@ I've been passionate about technology since I was a kid and I'm currently dedica
 
 ## My data on Github 🐙
 <div align="center">
-  <a href="https://github.com/kennedybarros">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ryukl12&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukl12&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://github.com/fabricio-odn">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-odn&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
  <hr>
