@@ -41,10 +41,10 @@ I've been passionate about technology since I was a kid and I'm currently dedica
 ## My data on Github 🐙
 <div align="center">
   <a href="https://github.com/kennedybarros">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ryukl12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukl12&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ryukl12&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukl12&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
  <hr>
 
- ![Snake animation](https://github.com/kennedybarros/ryukl12/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ryukl12/ryukl12/blob/output/github-contribution-grid-snake.svg)
