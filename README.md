@@ -16,7 +16,7 @@ Hi, I'm Fabricio Oliveira! 🇧🇷
 </h3>
 
 ```
-I've been passionate about technology since I was a kid and I'm currently dedicating myself to being a front-end developer.
+I've been passionate about technology since I was a child and I'm currently dedicating myself to being a front-end developer.
 ```
 ## Technologies I am currently studying 💻
 
@@ -27,15 +27,11 @@ I've been passionate about technology since I was a kid and I'm currently dedica
 
 ## Some facts about me 👨🏻‍💻
 
--  I’m currently learning Front end! 🌳
-
-- My goal is to become a developer capable of solving real problems. 📈
-
-- Always looking to be better than the day before, have continuous growth and impact people's lives. ❤️
+I'm currently learning Front-end and UX/UI Design 🎨💻
 
 - I chose development because it's amazing, the amount of things that can be created and the impact it can have on people's lives makes me excited. 🖱
 
-- I love to know new things, work in groups and get new experiences, I aim to work outside Brazil, to improve my English and meet new cultures, people and have new experiences. 😄
+- I love to know new things, work in groups and have new experiences, I intend to work outside Brazil, improve my English and meet new cultures, people and have new experiences. 😄
 
 
 ## My data on Github 🐙
