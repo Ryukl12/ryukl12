@@ -8,33 +8,33 @@
 
 </h4>
 
-<h3 align="center">  <br>
+<h3 align="center"><br>
 
-Hi, I'm Fabricio Oliveira! 🇧🇷
+Olá, sou Fabricio Oliveira!
 <br>
 
 </h3>
 
 ```
-I've been passionate about technology since I was a child and I'm currently dedicating myself to being a front-end developer.
+Sou apaixonado por tecnologia desde criança e atualmente estou me dedicando a ser um desenvolvedor front-end.
 ```
-## Technologies I am currently studying 💻
+## Tecnologias que estou estudando atualmente 💻
 
   - HTML
   - CSS
   - JavaScript
 
 
-## Some facts about me 👨🏻‍💻
+## Alguns fatos sobre mim 👨🏻‍💻
 
-I'm currently learning Front-end and UX/UI Design 🎨💻
+Atualmente estou aprendendo Front-end e UX/UI Design 🎨💻
 
-- I chose development because it's amazing, the amount of things that can be created and the impact it can have on people's lives makes me excited. 🖱
+- Escolhi o desenvolvimento porque é incrível, a quantidade de coisas que podem ser criadas e o impacto que pode ter na vida das pessoas. 🖱
 
-- I love to know new things, work in groups and have new experiences, I intend to work outside Brazil, improve my English and meet new cultures, people and have new experiences. 😄
+- Adoro conhecer coisas novas, trabalhar em grupo e ter novas experiências, pretendo trabalhar fora do Brasil, conhecer novas culturas, novas pessoas e ter novas experiências. 😄
 
 
-## My data on Github 🐙
+## Meus dados no Github 🐙
 <div align="center">
   <a href="https://github.com/fabricio-odn">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
