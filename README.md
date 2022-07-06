@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://github.com/fabricio-odn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-odn&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
@@ -16,8 +16,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
- 
-  <img align="center" alt="Jean-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
  
   ##
 
