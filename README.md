@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/fabricio-odn" style="display: flex">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-odn&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-odn&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
