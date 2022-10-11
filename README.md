@@ -29,3 +29,5 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
+
+![Snake animation](https://github.com/fabricio-odn/fabricio-odn/blob/output/github-contribution-grid-snake.svg)
