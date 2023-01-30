@@ -1,6 +1,5 @@
 <h1 align="center" display="inline">👩‍💻 🚀 Fabricio Oliveira - Dev Front-end</h1>
 
-* 💙 Descobri a programação em Maio/2022 através do mercado financeiro, e venho estudando autodidata até hoje.
 * 🎮 Gosto muito de tecnologia, design e fotografia.
 * 📚 Atualmente estou me especializando em React.
 * 🌃 Também gosto de cenários futuristicos e filmes de ficção.
