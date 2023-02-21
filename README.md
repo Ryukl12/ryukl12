@@ -7,7 +7,7 @@
 #
 
 <div align="center" display="inline">
-  <a href="https://github.com/gabriellima2">
+  <a href="https://github.com/fabricio-odn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabricio-odn&count_private=true&include_all_commits=yes&show_icons=true&theme=codeSTACKr&locale=pt-br" width="430px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-odn&layout=compact&langs_count=7&theme=codeSTACKr&locale=pt-br&hide_border=true" width="410px"/>
 </div>
