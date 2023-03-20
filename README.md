@@ -1,8 +1,8 @@
-<h1 align="center" display="inline">👩‍💻 🚀 Fabricio Oliveira - Dev Front-end</h1>
+<h1 align="center" display="inline">👨‍💻 🚀 Fabricio Oliveira - Dev Front-end</h1>
 
 * 🎮 Gosto muito de tecnologia, design e fotografia.
 * 📚 Atualmente estou me especializando em React.
-* 🌃 Também gosto de cenários futuristicos e filmes de ficção.
+* 🌃 Também gosto de cenários futurísticos e filmes de ficção.
 
 #
 
