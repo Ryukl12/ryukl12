@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,styledcomponents,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,styledcomponents,tailwind,figma,firebase" />
   </a>
 </p>
 
@@ -32,5 +32,3 @@
   <a href="https://portfolio-fabricio.vercel.app/" alt="Link para meu site(portfólio)" rel="noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/Meu%20Website-EDD11D?style=for-the-badge" /></a>
 </p>
-  
-![Snake animation](https://github.com/fabricio-odn/fabricio-odn/blob/output/github-contribution-grid-snake.svg)
